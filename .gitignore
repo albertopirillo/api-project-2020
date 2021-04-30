@@ -52,6 +52,7 @@ Mkfile.old
 dkms.conf
 
 # CLion files
+/.idea
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
@@ -59,3 +60,5 @@ dkms.conf
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/CMakeLists.txt
+/cmake-build-debug/
