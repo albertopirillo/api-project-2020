@@ -24,4 +24,4 @@ Ingegneria Informatica, [Politecnico di Milano](https://www.polimi.it/)
 - [GDB](https://www.gnu.org/software/gdb/)
 
 ## License & Copyright
-Licensed with [MIT License](LICENSE)
+Licensed under [MIT License](LICENSE)
